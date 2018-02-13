@@ -1,0 +1,9 @@
+Building Gopcoin
+
+See doc/readme-qt.rst for instructions on building Gopcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gopcoin.
+
+See doc/build-*.txt for instructions on building gopcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gopcoin.
